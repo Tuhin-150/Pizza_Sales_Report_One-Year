@@ -27,7 +27,8 @@ This Pizza_Sales data analysis project aims to provide insights into the sales p
 
    * A bar chart that displays the daily trend of total orders over a specific time period. There orders are Highest on weekends, Friday/Saturday evenings.
    * A line chart illustrates the monthly trend of total orders throughout the day. There are Maximum orders from month of July and May.
-   * A pie chart that shows the distribution of sales across different pizza categories. Classic Category contributes to Maximum sales & total orders. 
+   * A pie chart that shows the distribution of sales across different pizza categories and sizes. Classic Category contributes to Maximum sales & total orders. on the other hand, Large Size Pizza contributes to Maximum Sales.
+   * A funnel chart that presents the total number of pizza sold by each pizza category. This chart will allow us to compare the sales performance of different pizza categories. 
 
 
 
