@@ -1,5 +1,5 @@
 # Pizza_Sales_Report_One-Year
-https://app.powerbi.com/view?r=eyJrIjoiMWI2MmM2MDQtMGNhNC00NDUxLThjNmMtYTQ5YWQzOTM1ODVlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+![Untitled-1](https://github.com/Tuhin-150/Pizza_Sales_Report_One-Year/assets/161159207/3ce71a4a-88e0-43c6-b43d-f8fe472bb94d)
 
 ## Project Overview
 
